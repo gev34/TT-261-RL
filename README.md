@@ -40,7 +40,7 @@ The upper plot shows value function estimates after a few selected sweeps (1, 2,
 The lower plot shows the final optimal policy: the amount to stake at each capital level.
 
 <p align="center">
-  <img src="../generated_images/figure_4_3.png" alt="Figure 4.3 - Gambler's Problem Output" width="600">
+  <img src="./gambler-problem/generated_images/figure_4_3.png" alt="Figure 4.3 - Gambler's Problem Output" width="600">
 </p>
 
 ## 🚀 How to Run
